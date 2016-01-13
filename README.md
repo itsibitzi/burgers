@@ -8,7 +8,11 @@ They're kind of a big deal.
 
 ## Burger Venues
 Patty and Bun
+
 ~~Meat Liqour~~
+
 ~~Honest Burger~~
+
 ~~Breakfast Club~~
+
 
