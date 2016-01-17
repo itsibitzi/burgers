@@ -9,6 +9,8 @@ They're kind of a big deal.
 ## Burger Venues
 Patty and Bun
 
+Whiskey Ginger
+
 ~~Meat Liqour~~
 
 ~~Honest Burger~~
