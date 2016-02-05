@@ -3,9 +3,10 @@ They're kind of a big deal.
 
 ## Rankings
 1. Honest Burger
-2. Breakfast Club
-3. Breakfast and Burgers
-4. Meat Liquor
+2. Cheeky Burger
+3. Breakfast Club
+4. Breakfast and Burgers
+5. Meat Liquor
 
 ## Burger Venues
 Patty and Bun
@@ -39,6 +40,8 @@ Shakeshack
 ~~Meat Liqour~~
 
 ~~Honest Burger~~
+
+~~Cheeky Burger~~
 
 ~~Breakfast Club~~
 
