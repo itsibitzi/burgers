@@ -2,14 +2,20 @@
 They're kind of a big deal.
 
 ## Rankings
-1. Honest Burger
-2. Cheeky Burger
-3. Breakfast Club
-4. Breakfast and Burgers
-5. Meat Liquor
+
+### Top Tier 
+* Honest Burger
+* Patty and Bun
+* Cheeky Burger
+
+### Mid Tier
+* Breakfast Club
+* Breakfast and Burgers
+
+### Over-hyped Tier
+* Meat Liquor
 
 ## Burger Venues
-Patty and Bun
 
 Whiskey Ginger
 
@@ -42,6 +48,8 @@ Shakeshack
 ~~Honest Burger~~
 
 ~~Cheeky Burger~~
+
+~~Patty and Bun~~
 
 ~~Breakfast Club~~
 
