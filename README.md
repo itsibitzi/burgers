@@ -6,6 +6,9 @@ They're kind of a big deal.
 ### Top Tier 
 * Honest Burger
 * Patty and Bun
+
+### Great Tier
+* Burger & Shake
 * Cheeky Burger
 
 ### Mid Tier
@@ -36,11 +39,11 @@ Choosen Bun
 
 Burger Bear
 
-Burger & Shake
-
 Dip & Flip
 
 Shakeshack
+
+~~Burger & Shake~~
 
 ~~Tommi's Burger Joint~~
 
