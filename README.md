@@ -11,6 +11,7 @@ They're kind of a big deal.
 ### Mid Tier
 * Breakfast Club
 * Breakfast and Burgers
+* Tommi's Burger Joint
 
 ### Over-hyped Tier
 * Meat Liquor
@@ -22,8 +23,6 @@ Whiskey Ginger
 Bleecker St Burger
 
 Dirty Burger
-
-Tommi's Burger Joint
 
 Black's Burgers
 
@@ -42,6 +41,8 @@ Burger & Shake
 Dip & Flip
 
 Shakeshack
+
+~~Tommi's Burger Joint~~
 
 ~~Meat Liqour~~
 
