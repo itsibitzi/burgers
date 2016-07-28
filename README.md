@@ -19,6 +19,9 @@ They're kind of a big deal.
 ### Over-hyped Tier
 * Meat Liquor
 
+### Enemy of the Proletariat Tier
+* Byron Burger
+
 ## Burger Venues
 
 Whiskey Ginger
