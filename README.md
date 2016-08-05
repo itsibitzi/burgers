@@ -12,6 +12,7 @@ They're kind of a big deal.
 * Cheeky Burger
 
 ### Mid Tier
+* Bleecker St
 * Breakfast Club
 * Breakfast and Burgers
 * Tommi's Burger Joint
@@ -26,7 +27,7 @@ They're kind of a big deal.
 
 Whiskey Ginger
 
-Bleecker St Burger
+~~Bleecker St~~
 
 Dirty Burger
 
