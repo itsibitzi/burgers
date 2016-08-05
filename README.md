@@ -27,8 +27,6 @@ They're kind of a big deal.
 
 Whiskey Ginger
 
-~~Bleecker St~~
-
 Dirty Burger
 
 Black's Burgers
@@ -46,6 +44,8 @@ Burger Bear
 Dip & Flip
 
 Shakeshack
+
+~~Bleecker St~~
 
 ~~Burger & Shake~~
 
